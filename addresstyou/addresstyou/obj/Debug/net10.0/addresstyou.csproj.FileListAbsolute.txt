@@ -1,0 +1,14 @@
+C:\Users\h-ro\source\repos\addresstyou\addresstyou\bin\Debug\net10.0\addresstyou.exe
+C:\Users\h-ro\source\repos\addresstyou\addresstyou\bin\Debug\net10.0\addresstyou.deps.json
+C:\Users\h-ro\source\repos\addresstyou\addresstyou\bin\Debug\net10.0\addresstyou.runtimeconfig.json
+C:\Users\h-ro\source\repos\addresstyou\addresstyou\bin\Debug\net10.0\addresstyou.dll
+C:\Users\h-ro\source\repos\addresstyou\addresstyou\bin\Debug\net10.0\addresstyou.pdb
+C:\Users\h-ro\source\repos\addresstyou\addresstyou\obj\Debug\net10.0\addresstyou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h-ro\source\repos\addresstyou\addresstyou\obj\Debug\net10.0\addresstyou.AssemblyInfoInputs.cache
+C:\Users\h-ro\source\repos\addresstyou\addresstyou\obj\Debug\net10.0\addresstyou.AssemblyInfo.cs
+C:\Users\h-ro\source\repos\addresstyou\addresstyou\obj\Debug\net10.0\addresstyou.csproj.CoreCompileInputs.cache
+C:\Users\h-ro\source\repos\addresstyou\addresstyou\obj\Debug\net10.0\addresstyou.dll
+C:\Users\h-ro\source\repos\addresstyou\addresstyou\obj\Debug\net10.0\refint\addresstyou.dll
+C:\Users\h-ro\source\repos\addresstyou\addresstyou\obj\Debug\net10.0\addresstyou.pdb
+C:\Users\h-ro\source\repos\addresstyou\addresstyou\obj\Debug\net10.0\addresstyou.genruntimeconfig.cache
+C:\Users\h-ro\source\repos\addresstyou\addresstyou\obj\Debug\net10.0\ref\addresstyou.dll
