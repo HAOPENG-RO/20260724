@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\h-ro\\source\\repos\\renshu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B706A-1AE5-FDDC-C0DC-52F468D94211}|renshu\\renshu.csproj|c:\\users\\h-ro\\source\\repos\\renshu\\renshu\\dag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B706A-1AE5-FDDC-C0DC-52F468D94211}|renshu\\renshu.csproj|solutionrelative:renshu\\dag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B706A-1AE5-FDDC-C0DC-52F468D94211}|renshu\\renshu.csproj|c:\\users\\h-ro\\source\\repos\\renshu\\renshu\\anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B706A-1AE5-FDDC-C0DC-52F468D94211}|renshu\\renshu.csproj|solutionrelative:renshu\\anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B706A-1AE5-FDDC-C0DC-52F468D94211}|renshu\\renshu.csproj|c:\\users\\h-ro\\source\\repos\\renshu\\renshu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B706A-1AE5-FDDC-C0DC-52F468D94211}|renshu\\renshu.csproj|solutionrelative:renshu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B706A-1AE5-FDDC-C0DC-52F468D94211}|renshu\\renshu.csproj|c:\\users\\h-ro\\source\\repos\\renshu\\renshu\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B706A-1AE5-FDDC-C0DC-52F468D94211}|renshu\\renshu.csproj|solutionrelative:renshu\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23B706A-1AE5-FDDC-C0DC-52F468D94211}|renshu\\renshu.csproj|c:\\users\\h-ro\\source\\repos\\renshu\\renshu\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B706A-1AE5-FDDC-C0DC-52F468D94211}|renshu\\renshu.csproj|solutionrelative:renshu\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\Bird.cs",
+              "RelativeDocumentMoniker": "renshu\\Bird.cs",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\Bird.cs",
+              "RelativeToolTip": "renshu\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:12:08.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dag.cs",
+              "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\Dag.cs",
+              "RelativeDocumentMoniker": "renshu\\Dag.cs",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\Dag.cs",
+              "RelativeToolTip": "renshu\\Dag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T01:50:20.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Anime.cs",
+              "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\Anime.cs",
+              "RelativeDocumentMoniker": "renshu\\Anime.cs",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\Anime.cs",
+              "RelativeToolTip": "renshu\\Anime.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T00:48:53.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\Program.cs",
+              "RelativeDocumentMoniker": "renshu\\Program.cs",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\Program.cs",
+              "RelativeToolTip": "renshu\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T01:29:04.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\Cat.cs",
+              "RelativeDocumentMoniker": "renshu\\Cat.cs",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\Cat.cs",
+              "RelativeToolTip": "renshu\\Cat.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T00:43:53.868Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
