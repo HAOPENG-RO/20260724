@@ -15,6 +15,10 @@
       "RelativeMoniker": "D:0:0:{C23B706A-1AE5-FDDC-C0DC-52F468D94211}|renshu\\renshu.csproj|solutionrelative:renshu\\anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C23B706A-1AE5-FDDC-C0DC-52F468D94211}|renshu\\renshu.csproj|c:\\users\\h-ro\\source\\repos\\renshu\\renshu\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23B706A-1AE5-FDDC-C0DC-52F468D94211}|renshu\\renshu.csproj|solutionrelative:renshu\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C23B706A-1AE5-FDDC-C0DC-52F468D94211}|renshu\\renshu.csproj|c:\\users\\h-ro\\source\\repos\\renshu\\renshu\\dag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C23B706A-1AE5-FDDC-C0DC-52F468D94211}|renshu\\renshu.csproj|solutionrelative:renshu\\dag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -42,17 +46,30 @@
               "RelativeToolTip": "renshu\\Bird.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T06:12:08.518Z"
+              "WhenOpened": "2026-06-11T06:12:08.518Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IPlayable.cs",
+              "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\IPlayable.cs",
+              "RelativeDocumentMoniker": "renshu\\IPlayable.cs",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\IPlayable.cs",
+              "RelativeToolTip": "renshu\\IPlayable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T05:53:42.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Dag.cs",
               "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\Dag.cs",
               "RelativeDocumentMoniker": "renshu\\Dag.cs",
               "ToolTip": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\Dag.cs",
               "RelativeToolTip": "renshu\\Dag.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T01:50:20.676Z"
             },
@@ -64,7 +81,7 @@
               "RelativeDocumentMoniker": "renshu\\Anime.cs",
               "ToolTip": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\Anime.cs",
               "RelativeToolTip": "renshu\\Anime.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T00:48:53.736Z"
             },
@@ -76,14 +93,14 @@
               "RelativeDocumentMoniker": "renshu\\Program.cs",
               "ToolTip": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\Program.cs",
               "RelativeToolTip": "renshu\\Program.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T01:29:04.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Cat.cs",
               "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\renshu\\renshu\\Cat.cs",
               "RelativeDocumentMoniker": "renshu\\Cat.cs",

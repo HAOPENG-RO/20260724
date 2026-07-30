@@ -28,9 +28,10 @@
               "RelativeDocumentMoniker": "ConsoleApp5.1\\User.cs",
               "ToolTip": "C:\\Users\\h-ro\\source\\repos\\ConsoleApp5.1\\ConsoleApp5.1\\User.cs",
               "RelativeToolTip": "ConsoleApp5.1\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-18T04:02:36.422Z"
+              "WhenOpened": "2026-06-18T04:02:36.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -38,9 +39,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\ConsoleApp5.1\\ConsoleApp5.1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp5.1\\Program.cs",
-              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\ConsoleApp5.1\\ConsoleApp5.1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp5.1\\Program.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAAwHsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\ConsoleApp5.1\\ConsoleApp5.1\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp5.1\\Program.cs*",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAIwLoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-18T00:35:30.257Z",
               "EditorCaption": ""

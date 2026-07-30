@@ -17,7 +17,7 @@ class Program
         //}
         //Console.WriteLine("書き込みが完了しました");
 
-        //string filePath = "output.txt";
+        //string filePath = "append.txt";
 
         //if (File.Exists(filePath))
         //{
@@ -38,7 +38,7 @@ class Program
         //    Console.WriteLine("ファイルは存在しません。");
         //}
 
-        //using (StreamWriter writer = new StreamWriter(path, append: false))
+        //using (StreamWriter writer = new StreamWriter(filePath, append: false))
         //{
         //    writer.WriteLine("2026/06/18 10:21");
 
@@ -67,7 +67,7 @@ class Program
         //    Console.WriteLine("ファイルは存在しません。");
         //}
 
-        //string directoryPath = Path.Combine("data", "logs");
+        //string directoryPath = Path.Combine("data", "logs");    // data/logs
         //Directory.CreateDirectory(directoryPath);
 
 
@@ -92,11 +92,11 @@ class Program
 
         //String filePath = "data";
         //string[] files = Directory.GetFiles(filePath, "*.txt");
-        //if(files.Length == 0)
+        //if (files.Length == 0)
         //{
         //    Console.WriteLine("ファイルないぞ");
         //}
-        //foreach(string file in files)
+        //foreach (string file in files)
         //{
         //    FileInfo info = new FileInfo(file);
         //    Console.WriteLine(info.Name);
@@ -115,14 +115,14 @@ class Program
         //    Console.WriteLine(line);
         //}
 
-        //Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
-        //string fileName = "users.csv";
-        //List<User> Users = new List<User>();
+        Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);//文字化け
+        string fileName = "users.csv";
+        List<User> Users = new List<User>();
 
         //string users = Console.ReadLine();
 
 
-        //File.AppendAllText(fileName, users + Environment.NewLine,Encoding.GetEncoding("shift_jis"));
+        //File.AppendAllText(fileName, users + Environment.NewLine, Encoding.GetEncoding("shift_jis"));
         //using (StreamReader reader =
         //    new StreamReader(fileName, Encoding.GetEncoding("shift_jis")))
         //{
@@ -143,51 +143,78 @@ class Program
         //    }
         //}
 
-        //using (StreamReader reader =
-        //new StreamReader(fileName, Encoding.GetEncoding("shift_jis")))
-        //{
-        //    string line;
-        //    while ((line = reader.ReadLine()) != null)
-        //    {
-        //        string[] parts = line.Split(',');
-        //        if (!int.TryParse(parts[1], out int age))
-        //        {
-        //            Console.WriteLine("警告: 年齢が不正 → " + line);
-        //            continue;
-        //        }
+        if (File.Exists(fileName))
+        {
+            using (StreamReader reader =
+            new StreamReader(fileName, Encoding.GetEncoding("shift_jis")))
+            {
+                string line;
+                while ((line = reader.ReadLine()) != null)
+                {
+                    string[] parts = line.Split(',');
+                    if (!int.TryParse(parts[1], out int age))
+                    {
+                        Console.WriteLine("警告: 年齢が不正 → " + line);
+                        continue;
+                    }
 
-        //        User user = new User
-        //        {
-        //            Name = parts[0],
-        //            Age = age
-        //        };
+                    User user = new User
+                    {
+                        Name = parts[0],
+                        Age = age
+                    };
 
-        //        Users.Add(user);
-        //    }
-        //    foreach (var u in Users)
-        //    {
-        //        Console.WriteLine(u);
-        //    }
-        //    Console.WriteLine("-------------------");
-
-
-
-        //    var sorted = Users
-        //        .OrderByDescending(u => u.Age)
-        //        .ToList();
+                    Users.Add(user);
+                }
+                foreach (var u in Users)
+                {
+                    Console.WriteLine(u);
+                }
+                Console.WriteLine("-------------------");
+            }
+        }
 
 
-        //    foreach (var u in sorted)
-        //    {
-        //        Console.WriteLine(u);
-        //    }
+        var sorted = Users
+            .OrderByDescending(u => u.Age)
+            .ToList();
+
+
+        foreach (var u in sorted)
+        {
+            Console.WriteLine(u);
+        }
 
 
         //}
 
+        //Console.Write("Name：");
+        //string name = Console.ReadLine();
 
-        //Console.WriteLine("------------------------");
-        //PrintUsersTable(Users);
+        //int age;
+
+        //while (true)
+        //{
+        //    Console.Write("Age：");
+        //    string inputAge = Console.ReadLine();
+
+        //    if (int.TryParse(inputAge, out age))
+        //    {
+        //        break;
+        //    }
+
+        //    Console.WriteLine("エラー：Ageは整数で。");
+
+        //}
+
+        //File.AppendAllText(fileName,$"{name},{age}{Environment.NewLine}",Encoding.GetEncoding("shift_jis"));
+
+        //Console.WriteLine("登録しました。");
+
+
+
+        Console.WriteLine("------------------------");
+        PrintUsersTable(Users);
 
         //string path = "utf8.txt";
         //using (StreamWriter writer =
@@ -210,7 +237,7 @@ class Program
         //    }
         //}
         try
-        {
+            {
            
             Log("ro");
             
