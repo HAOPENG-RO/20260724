@@ -34,12 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -50,8 +46,7 @@
               "RelativeToolTip": "ConsoleApp7\\IReportable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T01:45:43.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T01:45:43.255Z"
             },
             {
               "$type": "Document",
@@ -63,8 +58,7 @@
               "RelativeToolTip": "ConsoleApp7\\Employee.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAwwBUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T07:53:43.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T07:53:43.049Z"
             },
             {
               "$type": "Document",
@@ -76,8 +70,7 @@
               "RelativeToolTip": "ConsoleApp7\\IOvertimeEligible.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T00:50:52.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T00:50:52.346Z"
             },
             {
               "$type": "Document",
@@ -89,8 +82,7 @@
               "RelativeToolTip": "ConsoleApp7\\FullTimeEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T07:53:05.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T07:53:05.845Z"
             },
             {
               "$type": "Document",
@@ -100,7 +92,7 @@
               "RelativeDocumentMoniker": "ConsoleApp7\\Program.cs",
               "ToolTip": "C:\\Users\\h-ro\\source\\repos\\ConsoleApp7\\ConsoleApp7\\Program.cs",
               "RelativeToolTip": "ConsoleApp7\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwBYAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwBYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-25T07:48:32.588Z",
               "EditorCaption": ""
@@ -115,8 +107,7 @@
               "RelativeToolTip": "ConsoleApp7\\PartTimeEmployee.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T07:54:11.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T07:54:11.951Z"
             }
           ]
         }
