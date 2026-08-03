@@ -1,0 +1,191 @@
+
+/* 共通設定 */
+
+    *{
+        margin:0;
+        padding:0;
+        box-sizing:border-box;
+        font-family:"Yu Gothic","Meiryo",sans-serif;
+    }
+
+    body{
+        background:#f4f4f4;
+    }
+
+/* index.php */
+
+    .login-box{
+        width:400px;
+        margin:120px auto;
+        background:#ffffff;
+        padding:30px;
+        border-radius:10px;
+        text-align:center;
+        box-shadow:0 0 10px rgba(0,0,0,.15);
+    }
+
+    .login-box h1{
+        margin-bottom:20px;
+    }
+
+    .login-box p{
+        margin-bottom:30px;
+    }
+
+    .btn{
+        display:inline-block;
+        width:100%;
+        padding:15px;
+        text-decoration:none;
+        background:#06C755;
+        color:white;
+        border-radius:5px;
+        font-size:18px;
+        transition:.3s;
+    }
+
+    .btn:hover{
+        background:#05a64a;
+    }
+
+/* list.php */
+
+    .container{
+        width:90%;
+        max-width:1100px;
+        margin:30px auto;
+    }
+
+    .container h1{
+        text-align:center;
+        margin-bottom:30px;
+    }
+
+    .add{
+        text-align:right;
+        margin-bottom:20px;
+    }
+
+    .add button{
+        background:#2196F3;
+        color:white;
+        border:none;
+        padding:10px 20px;
+        border-radius:5px;
+        cursor:pointer;
+    }
+
+    .add button:hover{
+        background:#1976D2;
+    }
+
+    .book{
+        display:flex;
+        align-items:center;
+        background:white;
+        margin-bottom:20px;
+        padding:15px;
+        border-radius:10px;
+        box-shadow:0 2px 5px rgba(0,0,0,.15);
+    }
+
+    .book img{
+        width:120px;
+        height:160px;
+        object-fit:cover;
+        border-radius:5px;
+        margin-right:20px;
+    }
+
+    .info{
+        flex:1;
+    }
+
+    .info h2{
+        margin-bottom:10px;
+    }
+
+    .status{
+        font-size:18px;
+        font-weight:bold;
+    }
+
+    .available{
+        color:green;
+    }
+
+    .borrowed{
+        color:red;
+    }
+
+    .book button{
+        border:none;
+        padding:10px 18px;
+        border-radius:5px;
+        cursor:pointer;
+        margin-left:10px;
+    }
+
+    .book a:first-of-type button{
+        background:#FFC107;
+        color:black;
+    }
+
+    .book a:last-of-type button{
+        background:#F44336;
+        color:white;
+    }
+
+    .book button:hover{
+        opacity:0.8;
+    }
+  
+/* scan.php */
+
+    .scan-box{
+        width:400px;
+        margin:100px auto;
+        background:#ffffff;
+        padding:30px;
+        border-radius:10px;
+        box-shadow:0 0 10px rgba(0,0,0,.2);
+        text-align:center;
+    }
+
+    .scan-box h1{
+        margin-bottom:20px;
+    }
+
+    .scan-box p{
+        margin-bottom:20px;
+    }
+
+    .scan-box input{
+        width:100%;
+        padding:12px;
+        font-size:16px;
+        border:1px solid #ccc;
+        border-radius:5px;
+    }
+
+    .scan-box button{
+        width:100%;
+        padding:12px;
+        margin-top:20px;
+        border:none;
+        background:#2196F3;
+        color:white;
+        font-size:18px;
+        border-radius:5px;
+        cursor:pointer;
+    }
+
+    .scan-box button:hover{
+        background:#1976D2;
+    }
+
+    .error{
+        margin-top:20px;
+        color:red;
+        font-weight:bold;
+    }
