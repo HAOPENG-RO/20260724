@@ -1,25 +1,20 @@
 <?php
+session_start();
 require_once("../config/db.php");
+$book=null;
 $message = "";
-if (isset($_POST['qr_code'])) {
+if ($_SERVER["REQUEST_METHOD"]=="POST") {
 
-    $qr_code = trim($_POST['qr_code']);
+    $book_id=trim($_POST['book_id']);
 
-    $sql = "SELECT * FROM books WHERE qr_code = ?";
+    $sql = "SELECT * FROM books WHERE id = ?";
     $stmt = $conn->prepare($sql);
-    $stmt->bind_param("s", $qr_code);
+    $stmt->bind_param("i", $book_id);
     $stmt->execute();
     $result = $stmt->get_result();
 
     if ($result->num_rows > 0) {
         $book = $result->fetch_assoc();
-        if ($book['status'] == "available") {
-            header("Location: borrow.php?id=" . $book['id']);
-            exit();
-        } else {
-            header("Location: return.php?id=" . $book['id']);
-            exit();
-        }
     } else {
         $message = "本が見つかりません。";
     }
@@ -41,9 +36,9 @@ if (isset($_POST['qr_code'])) {
         <form method="post">
             <input
                 type="text"
-                name="qr_code"
-                placeholder="QRコード"
-                autofocus
+                name="book_id"
+                placeholder="本のID"
+                min="1"
                 required
             >
             <br><br>
@@ -54,8 +49,34 @@ if (isset($_POST['qr_code'])) {
         </form>
         <br>
         <p class="error">
-        <?php echo $message; ?>
-    </p>
+            <?php echo htmlspecialchars($message); ?>
+        </p>
+    <?php if ($book!=null){ ?>
+        <div class="book-result">
+            <?php 
+            $image = "../images/" . $book["image"];
+            if(!empty($book["image"]) && file_exists($image)){
+                echo "<img src='$image' alt='本の画像'>";
+            }else{
+                echo "<p>画像なし</p>";
+            }
+            ?>
+            <h2><?php echo htmlspecialchars($book["title"]); ?></h2>
+            <p>
+                本ID:
+                <?php echo htmlspecialchars($book["id"]); ?>
+            </p>
+
+            <?php if ($book["status"]=="available"){ ?>
+                <p class="status available">貸出可能</p>
+                <a href="borrow.php?id=<?php echo $book["id"]; ?>">
+                    <button class="btn">貸出</button>
+                </a>
+            <?php } else{?>
+                <p class="status unavailable">貸出中</p>
+            <?php } ?>
+        </div>
+    <?php } ?>
     </div>
 </body>
 </html>

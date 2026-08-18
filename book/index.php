@@ -11,7 +11,7 @@
     <div class="login-box">
         <h1>本管理システム</h1>
         <p>LINE WORKSアカウントでログインしてください。</p>
-        <a href="../" class="btn">
+        <a href="/lineworks/login.php" class="btn">
             LINE WORKSでログイン
         </a>
     </div>

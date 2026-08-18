@@ -79,8 +79,15 @@
         background:#1976D2;
     }
 
+    .book-grid{
+        display:grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap:20px;
+    }
+
     .book{
-        display:flex;
+        grid-template-columns: repeat(3, 1fr);
+        display:grid;
         align-items:center;
         background:white;
         margin-bottom:20px;
@@ -139,39 +146,160 @@
     .book button:hover{
         opacity:0.8;
     }
+
+   
   
 /* scan.php */
 
-    .scan-box{
-        width:400px;
-        margin:100px auto;
-        background:#ffffff;
-        padding:30px;
-        border-radius:10px;
-        box-shadow:0 0 10px rgba(0,0,0,.2);
-        text-align:center;
+.scan-box {
+    width: 420px;
+    margin: 80px auto;
+    padding: 35px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.12);
+    text-align: center;
+}
+
+.scan-box h1 {
+    margin-bottom: 10px;
+    font-size: 28px;
+}
+
+.scan-box > p {
+    color: #666;
+    margin-bottom: 25px;
+}
+
+.scan-box form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 25px;
+}
+
+.scan-box input {
+    flex: 1;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.scan-box input:focus {
+    border-color: #2196f3;
+}
+
+.scan-box form button {
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    background: #2196f3;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.scan-box form button:hover {
+    background: #1976d2;
+}
+
+.book-result {
+    margin-top: 25px;
+    padding: 20px;
+    border-top: 1px solid #eee;
+    background: #f8f9fa;
+    border-radius: 10px;
+}
+
+.book-result img {
+    width: 180px;
+    height: 220px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto 15px;
+}
+
+.book-result h2 {
+    margin: 10px 0;
+    font-size: 22px;
+}
+
+.book-result p {
+    margin: 8px 0;
+}
+
+.status {
+    font-weight: bold;
+}
+
+.available {
+    color: #2e7d32;
+}
+
+.borrowed {
+    color: #d32f2f;
+}
+
+.book-result a {
+    display: block;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.book-result button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    background: #4caf50;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.book-result button:hover {
+    background: #388e3c;
+}
+ 
+/* login.php */
+
+   .login-box {
+    width: 400px;
+    margin: 100px auto;
+    padding: 35px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.12);
+    text-align: center;
     }
 
-    .scan-box h1{
+    .login-box h1{
+        margin-bottom:20px;
+        font-size:28px;
+    }
+
+    .login-box h2{
         margin-bottom:20px;
     }
 
-    .scan-box p{
-        margin-bottom:20px;
+    .login-box p{
+        margin-bottom:10px;
     }
 
-    .scan-box input{
+    .login-box input{
         width:100%;
         padding:12px;
         font-size:16px;
         border:1px solid #ccc;
         border-radius:5px;
+        margin-bottom:15px;
     }
 
-    .scan-box button{
+    .login-box .btn{
         width:100%;
         padding:12px;
-        margin-top:20px;
         border:none;
         background:#2196F3;
         color:white;
@@ -180,12 +308,4 @@
         cursor:pointer;
     }
 
-    .scan-box button:hover{
-        background:#1976D2;
-    }
-
-    .error{
-        margin-top:20px;
-        color:red;
-        font-weight:bold;
-    }
+    

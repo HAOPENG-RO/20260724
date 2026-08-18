@@ -30,10 +30,9 @@
         </a>
     </div>
     <?php } ?>
-    <?php
-        if($result->num_rows>0){
-            while($book=$result->fetch_assoc()){
-    ?>
+    <?php if($result->num_rows>0){ ?>
+        <div class="book-grid">
+            <?php while($book=$result->fetch_assoc()){ ?>
                 <div class="book">
                     <?php
                         $image = "../images/" . $book['image'];
@@ -56,18 +55,20 @@
                     </div>
 
                     <?php if($role=="admin"){ ?>
-                        <a href="edit.php?id=<?php echo $book['id']; ?>">
-                            <button>編集</button>
-                        </a>
-                        <a href="delete.php?id=<?php echo $book['id']; ?>"
-                            onclick="return confirm('削除しますか？')">
-                            <button>削除</button>
-                        </a>
+                        <div class="admin-buttons">
+                            <a href="edit.php?id=<?php echo $book['id']; ?>">
+                                <button>編集</button>
+                            </a>
+                            <a href="delete.php?id=<?php echo $book['id']; ?>"
+                                onclick="return confirm('削除しますか？')">
+                                <button>削除</button>
+                            </a>
+                        </div>
                     <?php } ?>
                 </div>
-        <?php
-            }
-        }else{
+            <?php } ?>
+        </div>
+        <?php }else{
             echo "<p>本が登録されていません。</p>";
         }
         $conn->close();
