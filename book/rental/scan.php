@@ -1,6 +1,12 @@
 <?php
 session_start();
 require_once("../config/db.php");
+
+if (!isset($_SESSION["linework_id"])) {
+    $_SESSION["login_from"] = "scan";
+    header("Location: ../lineworks/login.php");
+    exit();
+}
 $book=null;
 $message = "";
 if ($_SERVER["REQUEST_METHOD"]=="POST") {

@@ -16,7 +16,21 @@
             $_SESSION['linework_id'] = $user['linework_id'];
             $_SESSION['name'] = $user['name'];
             $_SESSION['role'] = $user['role'];
-            header("Location: /books/list.php");
+
+            if(isset($_SESSION["login_from"])){
+               if($_SESSION["login_from"]=="scan"){
+                  unset($_SESSION["login_from"]);
+                  header("Location: ../rental/scan.php");
+                  exit();
+               }
+
+               if($_SESSION["login_from"]=="list"){
+                  unset($_SESSION["login_from"]);
+                  header("Location: ../books/list.php");
+                  exit();
+               }
+            }
+            header("Location: ../books/list.php");
             exit();
         } else {
             $message = "ログイン情報が正しくありません。";

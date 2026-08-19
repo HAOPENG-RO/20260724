@@ -2,6 +2,14 @@
     session_start();
     require_once("../config/db.php");
 
+    if (!isset($_SESSION["linework_id"])) {
+
+    $_SESSION["login_from"] = "list";
+
+    header("Location: ../lineworks/login.php");
+    exit();
+}
+
     $sql = "SELECT * FROM books ORDER BY id ASC";
     $result = $conn->query($sql);
     $role = "user";
