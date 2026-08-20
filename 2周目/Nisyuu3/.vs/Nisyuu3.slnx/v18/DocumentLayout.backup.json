@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\h-ro\\source\\repos\\Nisyuu3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1B26DA-6FDF-4C6C-83E8-FBF50FF2AF94}|Nisyuu3\\Nisyuu3.csproj|c:\\users\\h-ro\\source\\repos\\nisyuu3\\nisyuu3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1B26DA-6FDF-4C6C-83E8-FBF50FF2AF94}|Nisyuu3\\Nisyuu3.csproj|solutionrelative:nisyuu3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1B26DA-6FDF-4C6C-83E8-FBF50FF2AF94}|Nisyuu3\\Nisyuu3.csproj|c:\\users\\h-ro\\source\\repos\\nisyuu3\\nisyuu3\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1B26DA-6FDF-4C6C-83E8-FBF50FF2AF94}|Nisyuu3\\Nisyuu3.csproj|solutionrelative:nisyuu3\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1B26DA-6FDF-4C6C-83E8-FBF50FF2AF94}|Nisyuu3\\Nisyuu3.csproj|c:\\users\\h-ro\\source\\repos\\nisyuu3\\nisyuu3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1B26DA-6FDF-4C6C-83E8-FBF50FF2AF94}|Nisyuu3\\Nisyuu3.csproj|solutionrelative:nisyuu3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\Nisyuu3\\Nisyuu3\\Counter.cs",
+              "RelativeDocumentMoniker": "Nisyuu3\\Counter.cs",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\Nisyuu3\\Nisyuu3\\Counter.cs",
+              "RelativeToolTip": "Nisyuu3\\Counter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T08:10:14.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\Nisyuu3\\Nisyuu3\\Student.cs",
+              "RelativeDocumentMoniker": "Nisyuu3\\Student.cs",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\Nisyuu3\\Nisyuu3\\Student.cs",
+              "RelativeToolTip": "Nisyuu3\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvw8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T06:40:52.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\Nisyuu3\\Nisyuu3\\Program.cs",
+              "RelativeDocumentMoniker": "Nisyuu3\\Program.cs",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\Nisyuu3\\Nisyuu3\\Program.cs",
+              "RelativeToolTip": "Nisyuu3\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwC8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T06:39:32.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

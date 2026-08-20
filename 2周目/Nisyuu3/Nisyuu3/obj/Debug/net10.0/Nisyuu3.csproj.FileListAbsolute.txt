@@ -1,0 +1,14 @@
+C:\Users\h-ro\source\repos\Nisyuu3\Nisyuu3\obj\Debug\net10.0\Nisyuu3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h-ro\source\repos\Nisyuu3\Nisyuu3\obj\Debug\net10.0\Nisyuu3.AssemblyInfoInputs.cache
+C:\Users\h-ro\source\repos\Nisyuu3\Nisyuu3\obj\Debug\net10.0\Nisyuu3.AssemblyInfo.cs
+C:\Users\h-ro\source\repos\Nisyuu3\Nisyuu3\obj\Debug\net10.0\Nisyuu3.csproj.CoreCompileInputs.cache
+C:\Users\h-ro\source\repos\Nisyuu3\Nisyuu3\bin\Debug\net10.0\Nisyuu3.exe
+C:\Users\h-ro\source\repos\Nisyuu3\Nisyuu3\bin\Debug\net10.0\Nisyuu3.deps.json
+C:\Users\h-ro\source\repos\Nisyuu3\Nisyuu3\bin\Debug\net10.0\Nisyuu3.runtimeconfig.json
+C:\Users\h-ro\source\repos\Nisyuu3\Nisyuu3\bin\Debug\net10.0\Nisyuu3.dll
+C:\Users\h-ro\source\repos\Nisyuu3\Nisyuu3\bin\Debug\net10.0\Nisyuu3.pdb
+C:\Users\h-ro\source\repos\Nisyuu3\Nisyuu3\obj\Debug\net10.0\Nisyuu3.dll
+C:\Users\h-ro\source\repos\Nisyuu3\Nisyuu3\obj\Debug\net10.0\refint\Nisyuu3.dll
+C:\Users\h-ro\source\repos\Nisyuu3\Nisyuu3\obj\Debug\net10.0\Nisyuu3.pdb
+C:\Users\h-ro\source\repos\Nisyuu3\Nisyuu3\obj\Debug\net10.0\Nisyuu3.genruntimeconfig.cache
+C:\Users\h-ro\source\repos\Nisyuu3\Nisyuu3\obj\Debug\net10.0\ref\Nisyuu3.dll

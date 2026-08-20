@@ -1,0 +1,14 @@
+C:\Users\h-ro\source\repos\Nisyuu2.7.7\Nisyuu2.7.7\bin\Debug\net10.0\Nisyuu2.7.7.exe
+C:\Users\h-ro\source\repos\Nisyuu2.7.7\Nisyuu2.7.7\bin\Debug\net10.0\Nisyuu2.7.7.deps.json
+C:\Users\h-ro\source\repos\Nisyuu2.7.7\Nisyuu2.7.7\bin\Debug\net10.0\Nisyuu2.7.7.runtimeconfig.json
+C:\Users\h-ro\source\repos\Nisyuu2.7.7\Nisyuu2.7.7\bin\Debug\net10.0\Nisyuu2.7.7.dll
+C:\Users\h-ro\source\repos\Nisyuu2.7.7\Nisyuu2.7.7\bin\Debug\net10.0\Nisyuu2.7.7.pdb
+C:\Users\h-ro\source\repos\Nisyuu2.7.7\Nisyuu2.7.7\obj\Debug\net10.0\Nisyuu2.7.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h-ro\source\repos\Nisyuu2.7.7\Nisyuu2.7.7\obj\Debug\net10.0\Nisyuu2.7.7.AssemblyInfoInputs.cache
+C:\Users\h-ro\source\repos\Nisyuu2.7.7\Nisyuu2.7.7\obj\Debug\net10.0\Nisyuu2.7.7.AssemblyInfo.cs
+C:\Users\h-ro\source\repos\Nisyuu2.7.7\Nisyuu2.7.7\obj\Debug\net10.0\Nisyuu2.7.7.csproj.CoreCompileInputs.cache
+C:\Users\h-ro\source\repos\Nisyuu2.7.7\Nisyuu2.7.7\obj\Debug\net10.0\Nisyuu2.7.7.dll
+C:\Users\h-ro\source\repos\Nisyuu2.7.7\Nisyuu2.7.7\obj\Debug\net10.0\refint\Nisyuu2.7.7.dll
+C:\Users\h-ro\source\repos\Nisyuu2.7.7\Nisyuu2.7.7\obj\Debug\net10.0\Nisyuu2.7.7.pdb
+C:\Users\h-ro\source\repos\Nisyuu2.7.7\Nisyuu2.7.7\obj\Debug\net10.0\Nisyuu2.7.7.genruntimeconfig.cache
+C:\Users\h-ro\source\repos\Nisyuu2.7.7\Nisyuu2.7.7\obj\Debug\net10.0\ref\Nisyuu2.7.7.dll

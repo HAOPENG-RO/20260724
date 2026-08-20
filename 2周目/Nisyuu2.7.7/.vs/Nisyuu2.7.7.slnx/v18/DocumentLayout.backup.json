@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\h-ro\\source\\repos\\Nisyuu2.7.7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E38796EB-179A-4EDB-B820-50D5C7907990}|Nisyuu2.7.7\\Nisyuu2.7.7.csproj|c:\\users\\h-ro\\source\\repos\\nisyuu2.7.7\\nisyuu2.7.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38796EB-179A-4EDB-B820-50D5C7907990}|Nisyuu2.7.7\\Nisyuu2.7.7.csproj|solutionrelative:nisyuu2.7.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38796EB-179A-4EDB-B820-50D5C7907990}|Nisyuu2.7.7\\Nisyuu2.7.7.csproj|c:\\users\\h-ro\\source\\repos\\nisyuu2.7.7\\nisyuu2.7.7\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38796EB-179A-4EDB-B820-50D5C7907990}|Nisyuu2.7.7\\Nisyuu2.7.7.csproj|solutionrelative:nisyuu2.7.7\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38796EB-179A-4EDB-B820-50D5C7907990}|Nisyuu2.7.7\\Nisyuu2.7.7.csproj|c:\\users\\h-ro\\source\\repos\\nisyuu2.7.7\\nisyuu2.7.7\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38796EB-179A-4EDB-B820-50D5C7907990}|Nisyuu2.7.7\\Nisyuu2.7.7.csproj|solutionrelative:nisyuu2.7.7\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38796EB-179A-4EDB-B820-50D5C7907990}|Nisyuu2.7.7\\Nisyuu2.7.7.csproj|c:\\users\\h-ro\\source\\repos\\nisyuu2.7.7\\nisyuu2.7.7\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38796EB-179A-4EDB-B820-50D5C7907990}|Nisyuu2.7.7\\Nisyuu2.7.7.csproj|solutionrelative:nisyuu2.7.7\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38796EB-179A-4EDB-B820-50D5C7907990}|Nisyuu2.7.7\\Nisyuu2.7.7.csproj|c:\\users\\h-ro\\source\\repos\\nisyuu2.7.7\\nisyuu2.7.7\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38796EB-179A-4EDB-B820-50D5C7907990}|Nisyuu2.7.7\\Nisyuu2.7.7.csproj|solutionrelative:nisyuu2.7.7\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38796EB-179A-4EDB-B820-50D5C7907990}|Nisyuu2.7.7\\Nisyuu2.7.7.csproj|c:\\users\\h-ro\\source\\repos\\nisyuu2.7.7\\nisyuu2.7.7\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38796EB-179A-4EDB-B820-50D5C7907990}|Nisyuu2.7.7\\Nisyuu2.7.7.csproj|solutionrelative:nisyuu2.7.7\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPlayable.cs",
+              "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\Nisyuu2.7.7\\Nisyuu2.7.7\\IPlayable.cs",
+              "RelativeDocumentMoniker": "Nisyuu2.7.7\\IPlayable.cs",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\Nisyuu2.7.7\\Nisyuu2.7.7\\IPlayable.cs",
+              "RelativeToolTip": "Nisyuu2.7.7\\IPlayable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T05:40:50.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\Nisyuu2.7.7\\Nisyuu2.7.7\\Bird.cs",
+              "RelativeDocumentMoniker": "Nisyuu2.7.7\\Bird.cs",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\Nisyuu2.7.7\\Nisyuu2.7.7\\Bird.cs",
+              "RelativeToolTip": "Nisyuu2.7.7\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T04:43:24.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\Nisyuu2.7.7\\Nisyuu2.7.7\\Dog.cs",
+              "RelativeDocumentMoniker": "Nisyuu2.7.7\\Dog.cs",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\Nisyuu2.7.7\\Nisyuu2.7.7\\Dog.cs",
+              "RelativeToolTip": "Nisyuu2.7.7\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T04:01:51.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\Nisyuu2.7.7\\Nisyuu2.7.7\\Cat.cs",
+              "RelativeDocumentMoniker": "Nisyuu2.7.7\\Cat.cs",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\Nisyuu2.7.7\\Nisyuu2.7.7\\Cat.cs",
+              "RelativeToolTip": "Nisyuu2.7.7\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T02:52:38.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\Nisyuu2.7.7\\Nisyuu2.7.7\\Animal.cs",
+              "RelativeDocumentMoniker": "Nisyuu2.7.7\\Animal.cs",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\Nisyuu2.7.7\\Nisyuu2.7.7\\Animal.cs",
+              "RelativeToolTip": "Nisyuu2.7.7\\Animal.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwC4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T02:52:14.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\h-ro\\source\\repos\\Nisyuu2.7.7\\Nisyuu2.7.7\\Program.cs",
+              "RelativeDocumentMoniker": "Nisyuu2.7.7\\Program.cs",
+              "ToolTip": "C:\\Users\\h-ro\\source\\repos\\Nisyuu2.7.7\\Nisyuu2.7.7\\Program.cs",
+              "RelativeToolTip": "Nisyuu2.7.7\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwGgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T02:51:21.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
